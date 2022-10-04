@@ -1,0 +1,17 @@
+{
+  "name": "btek-javascript-1",
+  "version": "1.0.0",
+  "description": "BTek Bootcamp Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "lesson",
+    "bootcamp",
+    "learning"
+  ],
+  "author": "Raihan Adam",
+  "license": "ISC"
+}
