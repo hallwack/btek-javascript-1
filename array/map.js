@@ -14,3 +14,8 @@ console.log(hasil)
   12, 14, 16, 18
 ]
 */
+
+
+/*
+ * map() — dapat digunakan untuk perubahan data dalam bentuk array.
+ */

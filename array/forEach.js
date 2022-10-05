@@ -15,3 +15,7 @@ nums.forEach((num) => console.log(num));
 // Karena tidak mengembalikan nilai return, maka hasil dibawah ini bernilai undefined
 const hasil2 = nums.forEach((num) => num);
 console.log(hasil2)
+
+/*
+ * forEach() — mungkin sangat cocok ketika anda tidak ingin mengubah nilai datanya itu sendiri misalkan memasukan data ke database.
+ */
